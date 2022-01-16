@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expense-calculator/static/css/main.6d24e449.chunk.css",
+    "main.js": "/expense-calculator/static/js/main.887fd0b2.chunk.js",
+    "main.js.map": "/expense-calculator/static/js/main.887fd0b2.chunk.js.map",
+    "runtime-main.js": "/expense-calculator/static/js/runtime-main.4380e48e.js",
+    "runtime-main.js.map": "/expense-calculator/static/js/runtime-main.4380e48e.js.map",
+    "static/js/2.bedcb521.chunk.js": "/expense-calculator/static/js/2.bedcb521.chunk.js",
+    "static/js/2.bedcb521.chunk.js.map": "/expense-calculator/static/js/2.bedcb521.chunk.js.map",
+    "index.html": "/expense-calculator/index.html",
+    "static/css/main.6d24e449.chunk.css.map": "/expense-calculator/static/css/main.6d24e449.chunk.css.map",
+    "static/js/2.bedcb521.chunk.js.LICENSE.txt": "/expense-calculator/static/js/2.bedcb521.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4380e48e.js",
+    "static/js/2.bedcb521.chunk.js",
+    "static/css/main.6d24e449.chunk.css",
+    "static/js/main.887fd0b2.chunk.js"
+  ]
+}
